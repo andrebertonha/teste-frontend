@@ -2,7 +2,12 @@
 
 ## Instructions
     + Download or clone the project
-        - run yarn install in root folder
+        - run yarn or yarn install in root folder
         - yarn dev (development)
         - yarn start (production)
-            - see your application running on localhost:3000
+        - start local instance of mongo in your machine
+        - test database instance in localhost:27017
+
+## Routes
+    + post route:
+        - http://localhost:3000/posts
