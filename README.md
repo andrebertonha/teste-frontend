@@ -11,3 +11,11 @@
 ## Routes
     + post route:
         - http://localhost:3000/posts
+
+## Tests
+    + Test it on insomnia
+        - Run insomnia
+        - create a new request and name it
+        - Set method POST
+        - set multipart form structure
+        - name it with 'file' and select a file and click send to see application working
